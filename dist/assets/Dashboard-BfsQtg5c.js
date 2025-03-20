@@ -1,0 +1,1 @@
+import{a as n,c as a,j as s}from"./index-D8lluagR.js";const i=()=>{const{user:t}=n(o=>o.auth),[e]=a();return s.jsxs(s.Fragment,{children:[s.jsxs("div",{style:{padding:10,display:"flex",justifyContent:"space-between"},children:[s.jsx("strong",{children:t.name}),s.jsx("button",{onClick:e,children:"Logout"})]}),s.jsx("div",{children:"Dashboard"})]})};export{i as default};
